@@ -1,4 +1,4 @@
-# [Nikola Tesla](index.md) - Master Document List
+# [Nikola Tesla](https://infining.github.io/nikolatesla/) - Master Document List
 
 - FBI Freedom of Information Release on Nikola Tesla
   - [FBI Vault - Nikola Tesla Part 01 of 03](FBI Vault - Nikola Tesla Part 01 of 03.pdf)
