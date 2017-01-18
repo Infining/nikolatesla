@@ -1,4 +1,4 @@
-# Nikola Tesla
+# [Nikola Tesla](/index.md)
 
 *Personal research into the life and technical creations of Nikola Tesla*
 
